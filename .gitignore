@@ -27,4 +27,12 @@ Desktop.ini
 *.suo
 *.ntvs*
 *.njsproj
-*.Q1_STUDY_GUIDE.md
+
+# Assignment study guide & notes
+Q1_STUDY_GUIDE.md
+*study_guide*
+*study_planner*
+*STUDY_GUIDE*
+*STUDY_PLANNER*
+
+
