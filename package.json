@@ -1,0 +1,26 @@
+{
+  "name": "udb-rate-limiter",
+  "version": "1.0.0",
+  "description": "Fixed Window Counter Rate Limiter backed by Redis 7 and Express (NoSQL Unstructured Database)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test tests/rateLimiter.test.js"
+  },
+  "keywords": [
+    "redis",
+    "express",
+    "rate-limiter",
+    "fixed-window",
+    "nosql",
+    "key-value-store",
+    "unstructured-database"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "redis": "^4.7.0"
+  }
+}
